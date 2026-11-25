@@ -1,5 +1,5 @@
 # 19xx - M498A - wbsps - module - m498a 10 x 1 - switch module_small.jpg
-Wiki page: [M498A](../../../PAGES/M498A.md)
+Wiki page: [M498A](../../../../PAGES/M498A.md)
 
 
 - **Year:** unknown (unknown)
@@ -14,7 +14,7 @@ Wiki page: [M498A](../../../PAGES/M498A.md)
 
 ```json
 {
- "file": "Modules/ROUTING/M498A/19xx - M498A - wbsps - module - m498a 10 x 1 - switch module_small.jpg",
+ "file": "Modules/ROUTING/M498A/PHOTOS/19xx - M498A - wbsps - module - m498a 10 x 1 - switch module_small.jpg",
  "sha256": "18b356bc6a642970e5d6bbcfc9c8348bc51d815857df87ba923895cc1e169447",
  "kind": "module",
  "models": [
