@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (354, 27)–(432, 44) mm: DAIL · WBS WARD-BeCK Bybtems · M498A
 - **Wiring (first pass):** 156 connected wire groups from 667 runs, 3 dotted junctions; labelled ends: 172 mm → 6R, APUTS, TOL; 94 mm → 39 3132; 94 mm → 21.23.2224; 76 mm → 39 3132, GR; 63 mm → 21.23.2224
 
-Every curve, box, word and wire group: [19xx - M498A - DOC - 498-02-002 - STEREO SWITCHER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M498A%20-%20DOC%20-%20498-02-002%20-%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M498A - DOC - 498-02-002 - STEREO SWITCHER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M498A - DOC - 498-02-002 - STEREO SWITCHER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M498A%20-%20DOC%20-%20498-02-002%20-%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M498A - DOC - 498-02-002 - STEREO SWITCHER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

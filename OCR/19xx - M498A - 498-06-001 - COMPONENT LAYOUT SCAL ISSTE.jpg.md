@@ -20,7 +20,7 @@ Wiki page: [M498A](../../../../PAGES/M498A.md)
 - **Closed boxes:** 28
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [19xx - M498A - 498-06-001 - COMPONENT LAYOUT SCAL ISSTE (traced).json](../SCHEMATICS/19xx%20-%20M498A%20-%20498-06-001%20-%20COMPONENT%20LAYOUT%20SCAL%20ISSTE%20(traced).json) (the CAD file: `19xx - M498A - 498-06-001 - COMPONENT LAYOUT SCAL ISSTE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M498A - 498-06-001 - COMPONENT LAYOUT SCAL ISSTE (traced).json](../SCHEMATICS/19xx%20-%20M498A%20-%20498-06-001%20-%20COMPONENT%20LAYOUT%20SCAL%20ISSTE%20%28traced%29.json) (the CAD file: `19xx - M498A - 498-06-001 - COMPONENT LAYOUT SCAL ISSTE (traced).dxf`).
 
 ## Full text
 
