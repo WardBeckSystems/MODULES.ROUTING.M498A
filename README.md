@@ -11,7 +11,7 @@ Ward-Beck Systems M498A. Wiki page: [M498A on WBSps.ca](https://wardbecksystems.
 | [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
 | [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 5 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -26,8 +26,6 @@ _Photographs of the module itself: front, back, inside, racked._
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQ1FmaW5vQzlydlE/view?resourcekey=0-7vR59NYohhVr95tCHQU1kg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQ1FmaW5vQzlydlE&resourcekey=0-7vR59NYohhVr95tCHQU1kg" width="240" alt="19xx - M498A - 10 X 1 - Switch module.jpg"></a><br><sub>19xx - M498A - 10 X 1 - Switch module</sub></td></tr>
 </table>
-
-Shared privately on Google Drive (opens after sign-in): [19xx - M498A - wbsps - module - m498a 10 x 1 - switch module_small](https://drive.google.com/file/d/0B0yR0b5T78SKcDlMSW1hcUxVQU0/view?resourcekey=0-_34C-M5129Moywbjge8Dog)
 
 ## Schematics
 
