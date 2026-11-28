@@ -1,5 +1,5 @@
 # 19xx - M498A - 10 X 1 - Switch module.jpg
-Wiki page: [M498A](../../../../PAGES/M498A.md)
+Wiki page: [M498A](../)
 
 
 - **Year:** unknown (unknown)

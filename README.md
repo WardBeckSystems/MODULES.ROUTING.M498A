@@ -1,6 +1,6 @@
 # M498A 10x1 Selector · Routing
 
-Ward-Beck Systems M498A. Wiki page: [M498A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M498A.html)
+Ward-Beck Systems M498A. Wiki page: [M498A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.ROUTING.M498A/)
 
 | Folder | What is in it | Files |
 |---|---|---|
