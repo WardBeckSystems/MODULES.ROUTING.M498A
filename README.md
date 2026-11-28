@@ -4,13 +4,11 @@ Ward-Beck Systems M498A. Wiki page: [M498A on WBSps.ca](https://wardbecksystems.
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 13 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 2 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 4 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 12 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 1 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 3 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -42,7 +40,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M498A - 498-02-002.kicad_sch](KICAD/19xx%20-%20M498A%20-%20498-02-002.kicad_sch)
 - [19xx - M498A - DOC - 498-02-002 - STEREO SWITCHER MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M498A%20-%20DOC%20-%20498-02-002%20-%20STEREO%20SWITCHER%20MODULE%20SCHEMATIC.kicad_sch)
 - [M498A.kicad_sym](KICAD/M498A.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
